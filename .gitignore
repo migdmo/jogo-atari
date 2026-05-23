@@ -32,3 +32,6 @@ desktop.ini
 
 # Agentes / workflows internos
 .agents/
+
+# Projetos adicionais
+to-do-app/
